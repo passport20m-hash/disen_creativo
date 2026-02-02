@@ -1,0 +1,7 @@
+{
+  "name": "OFFI DISEÑO CREATIVO",
+  "description": "Fábrica de muebles de oficina en Bogotá.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
